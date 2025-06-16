@@ -1,1 +1,12 @@
+org\example\services\UsuarioService.class
+org\example\entities\Cliente.class
+org\example\entities\Produto.class
+org\example\entities\Fornecedor.class
+org\example\controller\UsuarioController.class
 org\example\Main.class
+org\example\repositories\UsuarioRepository.class
+org\example\repositories\ProdutoRepository.class
+org\example\repositories\ClienteRepository.class
+org\example\services\FornecerdorService.class
+org\example\entities\Usuario.class
+org\example\repositories\FornecedorRepository.class
